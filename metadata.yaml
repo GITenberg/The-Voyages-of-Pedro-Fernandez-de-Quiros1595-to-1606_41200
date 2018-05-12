@@ -1,0 +1,49 @@
+_repo: The-Voyages-of-Pedro-Fernandez-de-Quiros1595-to-1606_41200
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Clements Robert, Sir
+    - Markham, Sir Clements R. (Clements Robert)
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+covers:
+- cover_type: archival
+  image_path: 41200-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Queirós, Pedro Fernandes de
+    aliases:
+    - Fernández de Quirós, Pedro
+    - Queiroz, Pedro Fernandes
+    - De Queirós, Pedro Fernandes
+    - Quir, Pedro Fernández de
+    - Queiros, Pedro Fernandes de
+    - Quiros, Pedro Fernandez de
+    - Quiros, Pedro Fernando de
+    - Fernandes de Queiros, Pedro
+    - Quiros, Fernando de
+    deathdate: 1615
+    gutenberg_agent_id: '41030'
+    url: http://www.gutenberg.org/2009/agents/41030
+description: ''
+gutenberg_issued: '2012-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography -- Spanish'
+- !lcsh 'Mendaña de Neira, Alvaro de, 1542?-1595'
+- !lcsh 'Oceania -- Discovery and exploration'
+- !lcc 'G'
+- !lcsh 'Early maps'
+title: The Voyages of Pedro Fernandez de Quiros, 1595 to 1606. Volume 1
+url: http://www.gutenberg.org/ebooks/41200
